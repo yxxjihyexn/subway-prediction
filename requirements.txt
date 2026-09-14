@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+pymongo
+matplotlib
+jupyter
+ipykernel
+altair
